@@ -1,0 +1,24 @@
+{
+  "name": "mongotube",
+  "version": "1.0.0",
+  "description": "a fun project for youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskan-rajpal/mongoTube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskan-rajpal/mongoTube/issues"
+  },
+  "homepage": "https://github.com/muskan-rajpal/mongoTube#readme",
+  "dependencies": {
+    "mocha": "^8.1.1",
+    "mongoose": "^5.9.28",
+    "nodemon": "^2.0.4"
+  }
+}
